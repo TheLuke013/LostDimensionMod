@@ -2,6 +2,7 @@
 	"item.lostdimension.lost_ingot": "Barra de Minério Perdido",
 	
 	"block.lostdimension.lost_ore_block": "Minério Perdido",
+	"block.lostdimension.lost_block": "Bloco de Minério Perdido",
 	
 	"itemGroup.lostdimension.lost_group": "Itens Perdidos"
 }

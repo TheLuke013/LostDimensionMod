@@ -11,7 +11,10 @@ base {
 }
 
 repositories {
-	
+	maven { 
+        url = "http://maven.kyrptonaught.dev"
+        allowInsecureProtocol = true
+	}
 }
 
 dependencies {
@@ -21,7 +24,8 @@ dependencies {
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
-	
+	modImplementation 'net.kyrptonaught:customportalapi:0.0.1-beta32-1.16'
+	include 'net.kyrptonaught:customportalapi:0.0.1-beta32-1.16'
 }
 
 processResources {

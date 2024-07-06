@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "lostdimension:block/lost_block" }
+	}
+}

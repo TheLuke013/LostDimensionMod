@@ -15,6 +15,9 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
+	public static final Block LOST_BLOCK = registerBlock("lost_block",
+	new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.LOST_GROUP);
+	
 	public static final Block LOST_ORE_BLOCK = registerBlock("lost_ore_block",
 	new Block(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool()), ModItemGroup.LOST_GROUP);
 	

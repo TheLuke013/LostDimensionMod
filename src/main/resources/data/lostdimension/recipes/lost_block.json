@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "lostdimension:lost_ingot"
+		}
+	},
+	"result": {
+		"item": "lostdimension:lost_block"
+	}
+}
