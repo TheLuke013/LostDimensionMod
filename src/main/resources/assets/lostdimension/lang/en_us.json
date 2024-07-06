@@ -2,6 +2,11 @@
 	"item.lostdimension.lost_ingot": "Lost Ingot",
 	"item.lostdimension.lost_sword": "Lost Sword",
 	
+	"item.lostdimension.lost_helmet": "Lost Helmet",
+	"item.lostdimension.lost_chestplate": "Lost Chestplate",
+	"item.lostdimension.lost_leggings": "Lost Leggings",
+	"item.lostdimension.lost_boots": "Lost Boots",
+	
 	"block.lostdimension.lost_ore_block": "Lost Ore",
 	"block.lostdimension.lost_block": "Lost Block",
 	
