@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "lostdimension:lost_ingot"
+    }
+  },
+  "result": {
+    "item": "lostdimension:lost_sword"
+  }
+}
