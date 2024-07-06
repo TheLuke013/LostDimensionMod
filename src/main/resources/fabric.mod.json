@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "lost-dimension",
+	"id": "lostdimension",
 	"version": "${version}",
 	"name": "Lost Dimension",
 	"description": "This mod adds a new dimension!",
